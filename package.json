@@ -1,5 +1,5 @@
 {
-  "name": "Note-Server",
+  "name": "noteserver",
   "version": "1.0.0",
   "description": "boilerplate for node projects",
   "main": "index.js",
@@ -15,9 +15,9 @@
   },
   "keywords": [],
   "engines": {
-    "node": "12.13.0"
+    "node": "12.18.2"
   },
-  "author": "kasia",
+  "author": "Laura",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
